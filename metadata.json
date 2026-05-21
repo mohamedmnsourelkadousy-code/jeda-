@@ -1,0 +1,6 @@
+{
+  "name": "مطعم البيضة المقشرة",
+  "description": "موقع مطعم البيضة المقشرة واستكانة الشاي في جدة البلد القديمة - تجربة طعام تراثية أصيلة بنكهات حجازية فريدة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
